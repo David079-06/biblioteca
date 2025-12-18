@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Samuel Iglesia
+=======
+Samuel Iglesias
+
+>>>>>>> 71020303369b97ee1567d3c36945638aa83dcb98
